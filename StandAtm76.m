@@ -4,6 +4,7 @@
 % Date: 08/29/2022
 %References: Anderson, J.D, Introduction to Flight, 2022.
 %Hawley, Jim, Formulae and code for the U.S. Standard atmosphere, 1976.
+% Returns plots
 clc; clear all; close all;
 
 %% Constants
